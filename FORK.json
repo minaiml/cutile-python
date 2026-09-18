@@ -1,0 +1,15 @@
+{
+  "fork": "minaiml/cutile-python",
+  "source": "NVIDIA/cutile-python",
+  "source_url": "https://github.com/NVIDIA/cutile-python",
+  "commit": "d76e166abcfcafd7af5f776d2885dd80cb2a334f",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": "Apache-2.0",
+  "upstream_license_name": "Apache License 2.0",
+  "role": "Rust GPU kernels — the cuTile programming model itself, Python reference implementation",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue. GitHub reports NOASSERTION because LICENSE is a REUSE-style pointer to LICENSES/; the file declares SPDX-License-Identifier: Apache-2.0.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml",
+  "upstream_license_resolved_from": "the LICENSE file, read 2026-09-18"
+}
